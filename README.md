@@ -1,2 +1,1 @@
-# Bank-Loan-Analysis
-Bank Loan Analysis Using Excel
+This project involves analyzing historical bank loan data to extract key insights and build a predictive model to determine whether a loan application is likely to be approved. The goal is to help financial institutions make informed, data-driven decisions and minimize risk.
